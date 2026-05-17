@@ -34,8 +34,6 @@ did't know where to showcase, but Right now, Cloud is a big market of networking
 
 ## 📌 3 Clear goals for 90 Days
 
-| # | Goal | description | Target Date |
-|---|------|-------------|-------------|
 | # | Goal | Target Date |
 |---|------|-------------|
 | 1 | Master Linux Fundamentals and Shell Scripting automation for daily tasks | Day 30 |
